@@ -1,0 +1,40 @@
+<idea-plugin>
+  <id></id>
+  <name>Darcula++ Theme</name>
+  <version>1.0</version>
+  <vendor email="wswill@foxmail.com" url="https://github.com/shuwill">shuwill</vendor>
+
+  <description><![CDATA[
+     darcula++ theme
+
+     To install:
+      <ul>
+      <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+      <li>Restart IDE</li>
+      <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+      </ul>
+    ]]>
+  </description>
+
+  <change-notes><![CDATA[
+
+    ]]>
+  </change-notes>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="0d18000a-69fe-4537-bdf1-884cae364b5d" path="/darcula_plus.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
