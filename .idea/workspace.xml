@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88e39b85-d90d-41ea-bd89-d46fb1e24420" name="Changes" comment="" />
+    <list default="true" id="88e39b85-d90d-41ea-bd89-d46fb1e24420" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/darcula_plus.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/darcula_plus.theme.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +52,18 @@
     <property name="PluginModuleConvertToGradleStartupActivity.DoNotShowAgain" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/darcula-plus.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -94,6 +101,8 @@
       <workItem from="1644562234964" duration="2264000" />
       <workItem from="1645258544420" duration="238000" />
       <workItem from="1645258868881" duration="442000" />
+      <workItem from="1645259510908" duration="184000" />
+      <workItem from="1645330712503" duration="683000" />
     </task>
     <servers />
   </component>
